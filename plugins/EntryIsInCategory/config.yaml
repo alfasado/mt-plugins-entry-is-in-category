@@ -1,0 +1,11 @@
+name: Entry is in Category
+id:   EntryIsInCategory
+key:  entryisincategory
+version: 0.1
+author_link: http://alfasado.net/
+author_name: Alfasado Inc.
+l10n_class: EntryIsinCategory::L10N
+description: <__trans phrase="Conditional Tag 'MTIfEntryIsinCategory'.">
+tags:
+    block:
+        IfEntryIsinCategory?: $entryisincategory::EntryIsInCategory::Plugin::_hdlr_entry_is_in_category
